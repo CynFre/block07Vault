@@ -17,6 +17,6 @@ const firstComboNum = 5+5;
 const secondComboNum = 10*4;
 const thirdComboNum = (80/2)-1;
 //used the alert method to open a dialog with the msg and combination 
-//alert(userMessage + firstComboNum + "-" +secondComboNum + "-" + thirdComboNum);
+alert(userMessage + firstComboNum + "-" +secondComboNum + "-" + thirdComboNum);
 //also logged to the console using a different concatenation format
 console.log(`${userMessage} ${firstComboNum}-${secondComboNum}-${thirdComboNum}`);
