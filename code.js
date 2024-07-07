@@ -20,3 +20,5 @@ const thirdComboNum = (80/2)-1;
 alert(userMessage + firstComboNum + "-" +secondComboNum + "-" + thirdComboNum);
 //also logged to the console using a different concatenation format
 console.log(`${userMessage} ${firstComboNum}-${secondComboNum}-${thirdComboNum}`);
+
+
